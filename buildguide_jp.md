@@ -76,7 +76,10 @@ Zadigを使用してOS標準で入るドライバをWinUSBのものに入れ替�
 2. キーボードをbootloaderモードでPCに接続する   
 (この段階では```STM Device in DFU Mode```として認識されているはず)
 3. zadigを起動して```Options → List All devices```にチェック
-4. ```STM Device in DFU Mode```もしくは```STM32 BOOTLOADER```を選択して、```WinUSB```をインストールする
+4. ```STM Device in DFU Mode```もしくは```STM32 BOOTLOADER```を選択して、```WinUSB```をインストールする   
+**書き換えるデバイス名を必ず確認してから```Replace Driver```を押して下さい。**   
+**間違えたデバイスのドライバを書き換えると最悪PCが操作不能になります**
+
 ![zadig](img/stm32_win_driver.png)
 5. 再度キーボードをbootloaderモードでPCに接続。   
 (```STM32 BOOTLOADER```として認識されていればOK)
