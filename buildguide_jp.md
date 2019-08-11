@@ -70,6 +70,17 @@ https://github.com/hsgw/qmk_firmware/tree/lain
     3. Resetスイッチを離す
     4. Bootスイッチを離す
 
+#### (windowsの場合)ドライバを入れ替える
+Zadigを使用してOS標準で入るドライバをWinUSBのものに入れ替える必要があります。
+1. zadigをダウンロード、解凍する。(https://zadig.akeo.ie/)
+2. キーボードをbootloaderモードでPCに接続する   
+(この段階では```STM Device in DFU Mode```として認識されているはず)
+3. zadigを起動して```Options → List All devices```にチェック
+4. ```STM Device in DFU Mode```もしくは```STM32 BOOTLOADER```を選択して、```WinUSB```をインストールする
+![zadig](img/stm32_win_driver.png)
+5. 再度キーボードをbootloaderモードでPCに接続。   
+(```STM32 BOOTLOADER```として認識されていればOK)
+
 ### ファームウェアのビルドと書き込み
 キーボードを```ブートローダモード```にしてから
 ```
