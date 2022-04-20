@@ -31,6 +31,10 @@ We have removed the scratches after polishing, but if you want to make it perfec
 
 > See this blog for more information on scratches on acrylic middle part
 > https://5z6p.com/2022/02/03/lain-group-buy-update-4/
+> 
+> I also share the DXF file of acrylic middle part for those who want to remake or customize acrylic parts.   
+> Please use this file as well.  
+> ![acrylic middle part dxf file](lain-rev1-middle.dxf)
 
 ### Install switches
 Install the switch on the main PCB and switch plate.   
