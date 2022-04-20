@@ -45,7 +45,8 @@ Check the operation of the switch with Remap in the same way as the pre-assembly
 
 ### Prepare the bottom case
 Attach the spacers to the bottom plate with screws.    
-After attaching all the spacers, place the acrylic middle part.
+After attaching all the spacers, place the acrylic middle part.   
+Acrylic middle part have a specific direction for installation. Please see below photo.
 
 The holes for spacers are small to prevent wobbling.   
 If the acrylic middle part does not fit smoothly, install it carefully while gently bending the acrylic middle part.
