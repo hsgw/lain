@@ -29,6 +29,9 @@ The acrylic parts are dirty from the polishing process. After removing the prote
 Due to the manufacturing process, there are scratches on the sides.   
 We have removed the scratches after polishing, but if you want to make it perfect, please polish it again with sandpaper or polishing compound.
 
+> See this blog for more information on scratches on acrylic middle part
+> https://5z6p.com/2022/02/03/lain-group-buy-update-4/
+
 ### Install switches
 Install the switch on the main PCB and switch plate.   
 To prevent damage to the sockets and switches, the following points should be noted
