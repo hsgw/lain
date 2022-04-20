@@ -58,6 +58,9 @@ If the acrylic middle part does not fit smoothly, install it carefully while gen
 Screw the switch plate + main PCB into the prepared bottom case.
 ![case](img/rev1/case.jpg)
 
+## Replace switches
+When replacing a switch, to prevent damage, be sure to remove the bottom plate and insert the new switch while holding the socket.
+
 ## Customize keymap
 This keyboard is compatible with [Remap](https://remap-keys.app)   
 - [How to Use Remap](how_to_use_remap_en.md)  
