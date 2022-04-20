@@ -1,4 +1,4 @@
-# Lain ビルドガイド
+# Lain Rev.Alpha ビルドガイド
 
 ***組み立てを始める前に必ず最後まで一通り目を通して下さい***
 
@@ -21,7 +21,7 @@
 - USB type-cケーブル
 
 ## レイアウト
-![layout](img/lain_layout.png)
+![layout](img/alpha/lain_layout.png)
 
 ## 組み立て
 ### メインPCBの動作確認
@@ -38,7 +38,7 @@ USBケーブルでPCと接続し正しく認識されているか、適当なジ
 
 端のスイッチから対角になるよう順番に取り付けていきます。
 
-![plate](img/lain_assembly.jpg)
+![plate](img/alpha/lain_assembly.jpg)
 
 ### スイッチの動作確認
 すべてのスイッチが正しく動作するかPCに接続して確認して下さい。
@@ -48,7 +48,7 @@ USBケーブルでPCと接続し正しく認識されているか、適当なジ
 アクリルパーツには左右があります。   
 手前側の曲がっている部分で見分けることができます。   
 
-![case](img/lain_case.jpg)
+![case](img/alpha/lain_case.jpg)
 
 基板の側面を黒油性ペンで塗ると基板の端面が目立ちません。
 
@@ -80,7 +80,7 @@ Zadigを使用してOS標準で入るドライバをWinUSBのものに入れ替�
 **書き換えるデバイス名を必ず確認してから```Replace Driver```を押して下さい。**   
 **間違えたデバイスのドライバを書き換えると最悪PCが操作不能になります**
 
-![zadig](img/stm32_win_driver.png)
+![zadig](img/alpha/stm32_win_driver.png)
 5. 再度キーボードをbootloaderモードでPCに接続。   
 (```STM32 BOOTLOADER```として認識されていればOK)
 
